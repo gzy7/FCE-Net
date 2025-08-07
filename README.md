@@ -30,9 +30,10 @@ Unpaired Datasets
 
 [VV](https://drive.google.com/drive/folders/1u6o9HORetJR_fhF8EwV5aD505P1wcUZL?usp=drive_link)
 
-### 3. Train
+### 3.Train
 ```bash
 python train.py
 
 ### 4.Test
-<pre>python test.py<pre>
+```bash
+python test.py
