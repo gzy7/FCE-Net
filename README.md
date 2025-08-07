@@ -36,7 +36,7 @@ python train.py
 ```
 
 ### 4. Test
-Pre-trained weights are available at [Checkpoints](https://drive.google.com/drive/folders/1hMiyD9SFFpLCAH3P3IbjXIkog0VwLlSW?usp=drive_link).
+Pretrained weights are available at [Checkpoints](https://drive.google.com/drive/folders/1hMiyD9SFFpLCAH3P3IbjXIkog0VwLlSW?usp=drive_link).
 ```bash
 python test.py
 ```
