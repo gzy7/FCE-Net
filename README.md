@@ -27,3 +27,9 @@ MEF -
 NPE - 
 
 VV- 
+
+### 3.Train
+python train.py
+
+### 4.Test
+python test.py
