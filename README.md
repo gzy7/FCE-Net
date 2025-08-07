@@ -5,11 +5,11 @@ PyTorch version of FCE-Net.
 
 ## Experiment
 ### 1. Create Environment
-<pre> ```conda create -n FCE python=3.9 -y ``` </pre>
+<pre> ```conda create -n FCE python=3.9 -y
 
-<pre> ```conda activate FCE ``` </pre>
+conda activate FCE
 
-<pre> ```conda install pytorch torchvision torchaudio pytorch-cuda=11.8 -c pytorch -c nvidia ``` </pre>
+conda install pytorch torchvision torchaudio pytorch-cuda=11.8 -c pytorch -c nvidia ``` </pre>
 
 ### 2.Prepare Datasets
 Paired Datasets
