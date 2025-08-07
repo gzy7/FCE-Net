@@ -14,21 +14,21 @@ conda install pytorch torchvision torchaudio pytorch-cuda=11.8 -c pytorch -c nvi
 ### 2. Prepare Datasets
 Paired Datasets
 
-[LOLv1](https://drive.google.com/drive/folders/1tzf-wDJrhUvh415msACOPRzm518guz81?usp=drive_link)
+[LOLv1](https://drive.google.com/drive/folders/1tzf-wDJrhUvh415msACOPRzm518guz81?usp=sharing)
 
-[LOLv2](https://drive.google.com/drive/folders/1rLgUfFPcBCwO3oKJZZspiVobI6eFkx5E?usp=drive_link)
+[LOLv2](https://drive.google.com/drive/folders/1rLgUfFPcBCwO3oKJZZspiVobI6eFkx5E?usp=sharing)
 
 Unpaired Datasets
 
-[DICM](https://drive.google.com/drive/folders/19xLUJUv_-pCC8qhGPzUWagvVTn-eYEZc?usp=drive_link)
+[DICM](https://drive.google.com/drive/folders/19xLUJUv_-pCC8qhGPzUWagvVTn-eYEZc?usp=sharing)
 
-[LIME](https://drive.google.com/drive/folders/1bwSTUbZpwMQCNbPFj_d7o9oMx4ZkVbA1?usp=drive_link)
+[LIME](https://drive.google.com/drive/folders/1bwSTUbZpwMQCNbPFj_d7o9oMx4ZkVbA1?usp=sharing)
 
-[MEF](https://drive.google.com/drive/folders/1q6P8skzFF1VAZhy63Yfx5sUYaoggHRkM?usp=drive_link)
+[MEF](https://drive.google.com/drive/folders/1q6P8skzFF1VAZhy63Yfx5sUYaoggHRkM?usp=sharing)
 
-[NPE](https://drive.google.com/drive/folders/1LR5k8MD7fea9BfceqvveTsw4InQYjlXM?usp=drive_link)
+[NPE](https://drive.google.com/drive/folders/1LR5k8MD7fea9BfceqvveTsw4InQYjlXM?usp=sharing)
 
-[VV](https://drive.google.com/drive/folders/1u6o9HORetJR_fhF8EwV5aD505P1wcUZL?usp=drive_link)
+[VV](https://drive.google.com/drive/folders/1u6o9HORetJR_fhF8EwV5aD505P1wcUZL?usp=sharing)
 
 ### 3. Train
 ```bash
