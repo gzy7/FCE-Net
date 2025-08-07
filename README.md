@@ -31,7 +31,7 @@ Unpaired Datasets
 [VV](https://drive.google.com/drive/folders/1u6o9HORetJR_fhF8EwV5aD505P1wcUZL?usp=drive_link)
 
 ### 3.Train
-python train.py
+```python train.py```
 
 ### 4.Test
-python test.py
+```python test.py```
