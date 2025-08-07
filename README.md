@@ -11,7 +11,7 @@ conda activate FCE
 
 conda install pytorch torchvision torchaudio pytorch-cuda=11.8 -c pytorch -c nvidia</pre>
 
-### 2.Prepare Datasets
+### 2. Prepare Datasets
 Paired Datasets
 
 [LOLv1](https://drive.google.com/drive/folders/1tzf-wDJrhUvh415msACOPRzm518guz81?usp=drive_link)
@@ -30,10 +30,10 @@ Unpaired Datasets
 
 [VV](https://drive.google.com/drive/folders/1u6o9HORetJR_fhF8EwV5aD505P1wcUZL?usp=drive_link)
 
-### 3.Train
+### 3. Train
 ```bash
 python train.py
 
-### 4.Test
+### 4. Test
 ```bash
 python test.py
