@@ -12,8 +12,6 @@ conda activate FCE
 conda install pytorch torchvision torchaudio pytorch-cuda=11.8 -c pytorch -c nvidia
 
 ### 2.Prepare Datasets
-Download datasets:
-
 Paired Datasets
 
 [LOLv1](https://drive.google.com/drive/folders/1tzf-wDJrhUvh415msACOPRzm518guz81?usp=drive_link)
