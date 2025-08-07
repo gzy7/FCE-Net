@@ -5,7 +5,7 @@ PyTorch version of FCE-Net.
 
 ## Experiment
 ### 1. Create Environment
-conda create -n FCE python=3.9 -y
+```conda create -n FCE python=3.9 -y```
 
 conda activate FCE
 
