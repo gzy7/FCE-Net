@@ -36,6 +36,7 @@ python train.py
 ```
 
 ### 4. Test
+Pre-trained weights are available at [VV](https://drive.google.com/drive/folders/1u6o9HORetJR_fhF8EwV5aD505P1wcUZL?usp=drive_link).
 ```bash
 python test.py
 ```
