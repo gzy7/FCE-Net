@@ -1,7 +1,7 @@
 import torch
 import torch.nn.functional as F
 from torchmetrics.functional import structural_similarity_index_measure
-from model import LYT
+from model import FCE
 from dataloader import create_dataloaders
 import os
 from torchvision.utils import save_image
@@ -68,7 +68,7 @@ def main():
     _, test_loader = create_dataloaders(None, None, test_low, test_high, crop_size=None, batch_size=1)
     print(f'Test loader: {len(test_loader)}')
 
-    model = LYT().to(device)
+    model = FCE().to(device)
     model.load_state_dict(torch.load(weights_path, map_location=device))
     print(f'Model loaded from {weights_path}')
 
