@@ -33,9 +33,9 @@ Unpaired Datasets
 ### 3. Train
 ```bash
 python train.py
-```bash
+```
 
 ### 4. Test
 ```bash
 python test.py
-```bash
+```
