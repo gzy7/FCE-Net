@@ -11,6 +11,7 @@ conda create -n FCE python=3.9 -y
 conda activate FCE
 
 conda install pytorch torchvision torchaudio pytorch-cuda=11.8 -c pytorch -c nvidia
+```bash
 
 ### 2. Prepare Datasets
 Paired Datasets
@@ -34,7 +35,9 @@ Unpaired Datasets
 ### 3. Train
 ```bash
 python train.py
+```bash
 
 ### 4. Test
 ```bash
 python test.py
+```bash
