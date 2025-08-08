@@ -46,3 +46,6 @@ After training, run the model on test images using:
 ```bash
 python test.py
 ```
+
+### 5. Results
+[results](https://drive.google.com/drive/folders/1YqThs4L0Bn_z40JUvEqjJ1_S31Q_FzjK?usp=sharing)
