@@ -1,7 +1,7 @@
 # FCE-Net: A Frequency-Color-Edge Aware YUV Network for Low-Light Image Enhancement
 
 ## Description
-PyTorch version of FCE-Net.
+PyTorch implementation of FCE-Net.
 
 ## Experiment
 ### 1. Create Environment
@@ -32,6 +32,8 @@ Unpaired Datasets (for testing or unsupervised tasks)
 [NPE](https://drive.google.com/drive/folders/1LR5k8MD7fea9BfceqvveTsw4InQYjlXM?usp=sharing)
 
 [VV](https://drive.google.com/drive/folders/1u6o9HORetJR_fhF8EwV5aD505P1wcUZL?usp=sharing)
+
+Place the datasets in the appropriate directory structure as expected by the training and testing scripts.
 
 ### 3. Train
 To train FCE-Net on the paired dataset:
