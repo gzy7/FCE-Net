@@ -14,14 +14,14 @@ conda activate FCE
 conda install pytorch torchvision torchaudio pytorch-cuda=11.8 -c pytorch -c nvidia
 ```
 
-### 2. Prepare Datasets
-Paired Datasets
+### 2. Dataset Preparation
+Paired Datasets (for supervised training)
 
 [LOLv1](https://drive.google.com/drive/folders/1tzf-wDJrhUvh415msACOPRzm518guz81?usp=sharing)
 
 [LOLv2](https://drive.google.com/drive/folders/1rLgUfFPcBCwO3oKJZZspiVobI6eFkx5E?usp=sharing)
 
-Unpaired Datasets
+Unpaired Datasets (for testing or unsupervised tasks)
 
 [DICM](https://drive.google.com/drive/folders/19xLUJUv_-pCC8qhGPzUWagvVTn-eYEZc?usp=sharing)
 
