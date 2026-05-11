@@ -3,7 +3,7 @@
 ## Description
 PyTorch implementation of FCE-Net.
 
-![image](<img width="2921" height="949" alt="Fig 1" src="https://github.com/user-attachments/assets/ef66a050-8fe8-4383-9209-667dc4abe10e" />)
+![Network Architecture](figures/network.png)
 
 ## Experiment
 ### 1. Create Environment
